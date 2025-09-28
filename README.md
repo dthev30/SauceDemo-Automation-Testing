@@ -34,12 +34,9 @@ This project is a **Selenium WebDriver automation** for testing login and order 
 
 ---
 
-## Demo Video
+## Demo
 
-<video width="600" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](gif.gif)
 
 ---
 
