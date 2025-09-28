@@ -26,23 +26,8 @@ This project is a **Selenium WebDriver automation** for testing login and order 
 8. Complete the purchase.  
 9. Verify order confirmation message.
 
----
-
-## Output
-
-![Output](Output.png)
-
----
-
 ## Demo
 
 ![Demo](gif.gif)
 
 ---
-
-## Features
-
-- Automates login for `standard_user`  
-- Handles notifications and pop-ups  
-- Simulates adding product and checkout process  
-- Captures output screenshots and logs
